@@ -428,12 +428,6 @@ body{
 	padding-left: 10px;
 	color: var(--secondary-color);
 }
-.contact .info .social i:first-of-type{
-
-}
-.contact .info .social i:nth-last-of-type(2){}
-.contact .info .social i:last-of-type{}
-
 /*end contact  */
 
 /*start footer*/
